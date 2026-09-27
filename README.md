@@ -1,4 +1,4 @@
-# ~~MpdMacOS~~ Walnut Audio - MPD Client
+# Walnut Audio - MPD Client
 
 MPD client for macOS menubar with elegant UI and comprehensive playback control. Created for Music Player Daemon ecosystem with love.
 
