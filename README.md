@@ -22,6 +22,8 @@ MPD client for macOS menubar with elegant UI and comprehensive playback control.
   - Ctrl+Option+R: Refresh connection
 - **Playback Control** - Play, pause, next, previous, seek, volume control
 - **Stop After Current Song** - Toggle mode to stop after current track finishes
+- **Streaming via httpd (WAV format)
+- **Partitions support
 
 ### Search & Navigation
 - **Search** - Search within current playlist with instant results and fuzzy matching
